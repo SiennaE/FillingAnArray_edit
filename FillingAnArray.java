@@ -55,7 +55,7 @@ public class FillingAnArray
                 
             System.out.println(" ");
             System.out.print("Type \"true\" if you'd like to replace another element. (Type \"false\" if otherwise.) ");
-            fillAnElement = myScanner.nextBoolean();
+            changeElement = myScanner.nextBoolean();
         }
     }
     //MAIN
